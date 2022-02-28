@@ -1,0 +1,7 @@
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\Sai.Kanchi\Documents\documents\purple talk\projects\c sharp practice\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
